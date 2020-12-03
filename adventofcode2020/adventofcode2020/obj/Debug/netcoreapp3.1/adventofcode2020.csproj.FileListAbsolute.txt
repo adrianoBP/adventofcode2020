@@ -1,0 +1,14 @@
+E:\Projects\adventofcode2020\adventofcode2020\adventofcode2020\obj\Debug\netcoreapp3.1\adventofcode2020.csprojAssemblyReference.cache
+E:\Projects\adventofcode2020\adventofcode2020\adventofcode2020\obj\Debug\netcoreapp3.1\adventofcode2020.AssemblyInfoInputs.cache
+E:\Projects\adventofcode2020\adventofcode2020\adventofcode2020\obj\Debug\netcoreapp3.1\adventofcode2020.AssemblyInfo.cs
+E:\Projects\adventofcode2020\adventofcode2020\adventofcode2020\obj\Debug\netcoreapp3.1\adventofcode2020.csproj.CoreCompileInputs.cache
+E:\Projects\adventofcode2020\adventofcode2020\adventofcode2020\bin\Debug\netcoreapp3.1\adventofcode2020.exe
+E:\Projects\adventofcode2020\adventofcode2020\adventofcode2020\bin\Debug\netcoreapp3.1\adventofcode2020.deps.json
+E:\Projects\adventofcode2020\adventofcode2020\adventofcode2020\bin\Debug\netcoreapp3.1\adventofcode2020.runtimeconfig.json
+E:\Projects\adventofcode2020\adventofcode2020\adventofcode2020\bin\Debug\netcoreapp3.1\adventofcode2020.runtimeconfig.dev.json
+E:\Projects\adventofcode2020\adventofcode2020\adventofcode2020\bin\Debug\netcoreapp3.1\adventofcode2020.dll
+E:\Projects\adventofcode2020\adventofcode2020\adventofcode2020\bin\Debug\netcoreapp3.1\adventofcode2020.pdb
+E:\Projects\adventofcode2020\adventofcode2020\adventofcode2020\obj\Debug\netcoreapp3.1\adventofcode2020.dll
+E:\Projects\adventofcode2020\adventofcode2020\adventofcode2020\obj\Debug\netcoreapp3.1\adventofcode2020.pdb
+E:\Projects\adventofcode2020\adventofcode2020\adventofcode2020\obj\Debug\netcoreapp3.1\adventofcode2020.genruntimeconfig.cache
+E:\Projects\adventofcode2020\adventofcode2020\adventofcode2020\bin\Debug\netcoreapp3.1\Media\day1input.txt
