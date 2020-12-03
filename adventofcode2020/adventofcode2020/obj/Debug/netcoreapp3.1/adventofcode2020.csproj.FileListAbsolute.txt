@@ -12,3 +12,4 @@ E:\Projects\adventofcode2020\adventofcode2020\adventofcode2020\obj\Debug\netcore
 E:\Projects\adventofcode2020\adventofcode2020\adventofcode2020\obj\Debug\netcoreapp3.1\adventofcode2020.pdb
 E:\Projects\adventofcode2020\adventofcode2020\adventofcode2020\obj\Debug\netcoreapp3.1\adventofcode2020.genruntimeconfig.cache
 E:\Projects\adventofcode2020\adventofcode2020\adventofcode2020\bin\Debug\netcoreapp3.1\Media\day1input.txt
+E:\Projects\adventofcode2020\adventofcode2020\adventofcode2020\bin\Debug\netcoreapp3.1\Media\day2input.txt
