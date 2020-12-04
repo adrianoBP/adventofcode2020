@@ -14,3 +14,4 @@ E:\Projects\adventofcode2020\adventofcode2020\adventofcode2020\obj\Debug\netcore
 E:\Projects\adventofcode2020\adventofcode2020\adventofcode2020\bin\Debug\netcoreapp3.1\Media\day1input.txt
 E:\Projects\adventofcode2020\adventofcode2020\adventofcode2020\bin\Debug\netcoreapp3.1\Media\day2input.txt
 E:\Projects\adventofcode2020\adventofcode2020\adventofcode2020\bin\Debug\netcoreapp3.1\Media\day3input.txt
+E:\Projects\adventofcode2020\adventofcode2020\adventofcode2020\bin\Debug\netcoreapp3.1\Media\day4input.txt
