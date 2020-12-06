@@ -10,7 +10,8 @@ namespace adventofcode2020
             //Console.WriteLine($"Day 2 flags: {Day2.Part1()} & {Day2.Part2()}");
             //Console.WriteLine($"Day 3 flags: {Day3.Part1()} & {Day3.Part2()}");
             //Console.WriteLine($"Day 4 flags: {Day4.Part1()} & {Day4.Part2()}");
-            Console.WriteLine($"Day 5 flags: {Day5.Part1()} & {Day5.Part2()}");
+            //Console.WriteLine($"Day 5 flags: {Day5.Part1()} & {Day5.Part2()}");
+            Console.WriteLine($"Day 6 flags: {Day6.Part1()} & {Day6.Part2()}");
 
 
 
