@@ -20,3 +20,4 @@ E:\Projects\adventofcode2020\adventofcode2020\adventofcode2020\bin\Debug\netcore
 E:\Projects\adventofcode2020\adventofcode2020\adventofcode2020\bin\Debug\netcoreapp3.1\Media\day7input.txt
 E:\Projects\adventofcode2020\adventofcode2020\adventofcode2020\bin\Debug\netcoreapp3.1\Media\day8input.txt
 E:\Projects\adventofcode2020\adventofcode2020\adventofcode2020\bin\Debug\netcoreapp3.1\Media\day9input.txt
+E:\Projects\adventofcode2020\adventofcode2020\adventofcode2020\bin\Debug\netcoreapp3.1\Media\day10input.txt
